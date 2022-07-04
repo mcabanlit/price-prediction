@@ -1,6 +1,6 @@
 # Bulldozer Price Prediction [![gcash donation][1]][2] [![paypal donation][3]][4]
 
-[![license][5]][6] [![python version][7]][8] [![pywebio version][9]][10] [![scikit version][11]][12] 
+[![python version][7]][8]  [![scikit version][11]][12] 
 
 We are going to implement a machine learning project with the goal of predicting the sale price of bulldozers. This data was retrieved from [Kaggle](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data).
 
